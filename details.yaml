@@ -33,7 +33,7 @@ spec:
     spec:
       containers:
       - name: details
-        image: g47/details
+        image: javierteleco/g47-details
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 9080
