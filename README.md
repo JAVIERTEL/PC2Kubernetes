@@ -1,4 +1,4 @@
-# Despliegue de una aplicación basada en microservicios utilizando Kubernetes 
+# 4. Despliegue de una aplicación basada en microservicios utilizando Kubernetes 
 
 
 3.1 Lo primero que hacemos es subir nuestras imágenes a dockerhub con 
