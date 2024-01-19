@@ -22,5 +22,5 @@ docker login
 3.1 Ahora vamos  a https://console.cloud.google.com/kubernetes y crear un kubernetes en europe-west1 (la más cercana a nuestra localización). Y seleccionaremos connect y seleccionaremos run in cloud Shell. Una vez abierta ya tenemos un cluster de ordenadores donde podemos desplegar Pods, formados por contenedores Docker. Importaremos nuestros archivos yaml y ejecutaremos nuestro script de python
 
 ```
-python3 coma
+python3 ./comandos3.py
 ```
