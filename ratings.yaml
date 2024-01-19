@@ -36,7 +36,7 @@ spec:
     spec:
       containers:
       - name: ratings
-        image: g47/ratings
+        image: javierteleco/g47-ratings
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 9080
