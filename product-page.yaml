@@ -35,7 +35,7 @@ spec:
     spec:
       containers:
       - name: product-page
-        image: g47/product-page
+        image: javierteleco/g47-product-page
         imagePullPolicy: IfNotPresent
         ports:
         - containerPort: 9080
