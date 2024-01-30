@@ -24,3 +24,14 @@ docker login
 ```
 python3 ./comandos3.py
 ```
+
+Comandos útiles:
+
+```
+kubectl get deployments
+kubectl get pods
+kubectl get services
+```
+
+
+
