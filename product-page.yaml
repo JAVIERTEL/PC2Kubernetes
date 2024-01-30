@@ -8,7 +8,7 @@ metadata:
 spec:
   selector:
     app: product-page
-  type: NodePort
+  type: LoadBalancer
   ports:
   - port: 9080
     name: http
